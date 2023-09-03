@@ -1,9 +1,10 @@
+import matplotlib.pyplot as plt
+import numpy as np
 specie = ("18", "19", "20", "21", "22", "23", "24")
 penguin_mean = {
     'Yes': (25, 20, 28, 24, 19, 23, 21),
     'No': (12,10, 20, 16, 13, 25, 26)
 }
-
 x = np.arange(len(specie))  
 width = 0.45 
 multiplier = 0
