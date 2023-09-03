@@ -25,6 +25,4 @@ ax.set_xticks(x + width * 0.5)
 ax.set_xticklabels(species)
 ax.legend(loc='upper left', ncols=3)
 ax.set_ylim(0, 30)
-
 plt.show() 
-# Done By Medhavi Sahgal
