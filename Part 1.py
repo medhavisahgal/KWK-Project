@@ -6,13 +6,10 @@ penguin_means = {
     'Yes': (11, 14, 10, 15, 10, 9, 17),
     'No': (18,12, 8, 10, 8, 7, 15)
 }
-
 x = np.arange(len(species)) 
 width = 0.45  
 multiplier = 0
-
 fig, ax = plt.subplots()
-
 for attribute, measurement in penguin_means.items():
     offset = width * multiplier
     rects = ax.bar(x + offset, measurement, width, label=attribute)
