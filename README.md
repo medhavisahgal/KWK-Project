@@ -11,5 +11,7 @@ The repository consists of four parts:
 * Bar Chart 2: Represents the number of people suffering from anxiety.
 * Pie Chart 1: Shows the percentage of females who seek treatment for any mental illness.
 * Pie Chart 2: Depicts the percentage of males who seek treatment for any mental illness.
+# Live Visualizations
+The bar charts and pie charts developed as part of this repository can be viewed live on [Emabrace Your Mind](https://finalprojectkwk.wixsite.com/embraceyourmind).
 # Data Source
 The data used for these visualizations have been sourced from various online platforms. 
